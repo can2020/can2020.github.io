@@ -4,14 +4,14 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
+title: 烟酒咖啡茶
 subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
+description: "can2020的个人博客"
 keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+side_bar_repo_limit: 3
+repository: can2020/can2020.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -38,12 +38,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Zeng Can
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: can2020
+location: HangZhou, China
+email: can.zeng@hotmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -120,14 +120,14 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: can2020
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
         client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: can2020
     repo: blog-comments
     clientID: d2e1cbbd298958076462
     clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
@@ -143,13 +143,3 @@ simple_jekyll_search:
     # 最多显示多少条搜索结果
     limit: 10
 
-# ---------------- #
-#      Google      #
-# ---------------- #
-google:
-    analytics_id: UA-80669434-1
-    adsense:
-        footer: true
-        sidebar: true 
-        content_header: true
-        content_footer: false
