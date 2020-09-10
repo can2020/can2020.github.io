@@ -143,3 +143,4 @@ simple_jekyll_search:
     # 最多显示多少条搜索结果
     limit: 10
 
+# export JEKYLL_GITHUB_TOKEN=420861bf105f26772f3b4c6fe9b81c505a77baf7
