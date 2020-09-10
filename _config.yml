@@ -5,6 +5,7 @@ baseurl:
 url: http://can2020.github.io
 date_format: "ordinal"
 title: 烟酒咖啡茶
+subtitle: ""
 description: "can2020的个人博客"
 keywords: 研究咖啡茶, can2020
 timezone: Asia/Shanghai
@@ -37,7 +38,7 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zeng Can
+author: can2020
 organization: 
 organization_url: 
 github_username: can2020
@@ -128,8 +129,8 @@ gitment:
 gitalk:
     owner: can2020
     repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    clientID: 901a579e2dfb36bc43eb
+    clientSecret: f8d410984bc9740bf92800d1f021c243a24ff1a4
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
